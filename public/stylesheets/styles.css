@@ -863,7 +863,7 @@ margin-bottom: 0px;
     .joinus .addcart{
         position: absolute;
         top: 100%;
-        left: 23%;
+       /* left: 23%; */
     }
     .covid-precaution{
         padding-top: 50px !important;
