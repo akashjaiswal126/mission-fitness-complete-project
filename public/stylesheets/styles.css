@@ -596,7 +596,9 @@ border-top: 7px solid #f66249;
     right: 50%;
     margin: auto !important;
   }
-
+.read-more a{
+    white-space: nowrap;
+}
 
 
 
